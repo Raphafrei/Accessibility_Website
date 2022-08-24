@@ -1,4 +1,4 @@
-# Accessibility_Website
+# Accessibility Website - College Project
 Creating an website with accessibility for people.
 
 Human-Computer Interaction
